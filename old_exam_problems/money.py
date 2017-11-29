@@ -1,5 +1,0 @@
-bitcoin=int(input())
-uan=float(input())
-com=float(input())
-lv=(bitcoin*1168+uan*0.15*1.76)*(1-com/100)
-print("{0:.2f}".format(lv/1.95))
