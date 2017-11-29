@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Pesho_class/.idea/Pesho.iml" filepath="$PROJECT_DIR$/../Pesho_class/.idea/Pesho.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/softUniPythonCourse.iml" filepath="$PROJECT_DIR$/.idea/softUniPythonCourse.iml" />
     </modules>
   </component>
