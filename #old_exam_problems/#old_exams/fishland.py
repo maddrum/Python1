@@ -1,0 +1,9 @@
+scum=float(input())
+caca=float(input())
+palamudKg=float(input())
+safridKg=float(input())
+midiKg=int(input())
+palamudPrice=1.6*scum
+safridPrice=1.8*caca
+totalPrice=palamudKg*palamudPrice+safridKg*safridPrice+midiKg*7.5
+print("{0:.2f}".format(totalPrice))
