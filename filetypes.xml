@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="sqlite3" type="Native" />
+      <mapping pattern="zoho_username" type="PLAIN_TEXT" />
       <mapping pattern="#app_description" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
